@@ -14,3 +14,6 @@ Just a gamer who managed to type out things really fast, but apparently we don't
 |------------|---------------------|
 | <img width="450" src="https://github.com/user-attachments/assets/247a0970-0139-4eda-b90e-1f2f487a1a10" />| <img src="https://github.com/user-attachments/assets/a918ee5c-3c41-4cbc-9acf-a6e3b3861fc2" width="450" alt="Eurofighter Typhoon"> |
 
+
+### Track your weight and compete with me and your friends:  <a href="https://clupthegreat.github.io/WeightTracker-Vibed/">Track your weight</a>
+
